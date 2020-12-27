@@ -2,7 +2,40 @@
 <html>
 <head>
 	<title>Lab 2 Chinguun</title>
-	<link rel="stylesheet" type="text/css" href="BiyDaalt3.css">
+	<style>
+		#bigTable{  
+		  width: 40%;
+		  display: flex;
+		  font-size: 12px;
+		}
+		.firstRow{
+		  text-align: center;
+		}
+		.secondRow{
+		  text-align: center;
+		  background-color: orange;
+		}
+		.firstColumn{
+		  background-color: yellow;
+		}
+		.rowCol{
+		  text-align: center;
+		  background-color: green;
+		}
+		.lastCol{
+		  background-color: yellow;
+		}
+		.lastRow{
+		  background-color: orange;
+		}
+		.firstImage{
+		  height: 50px;
+		  width: 50px;
+		  display: block;
+		  margin-left: auto;
+		  margin-right: auto;
+		}
+	</style>
 </head>
 <body>
 	<table border="1" id="bigTable">
