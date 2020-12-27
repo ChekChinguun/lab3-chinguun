@@ -1,0 +1,32 @@
+#bigTable{  
+  width: 40%;
+  display: flex;
+  font-size: 12px;
+}
+.firstRow{
+  text-align: center;
+}
+.secondRow{
+  text-align: center;
+  background-color: orange;
+}
+.firstColumn{
+  background-color: yellow;
+}
+.rowCol{
+  text-align: center;
+  background-color: green;
+}
+.lastCol{
+  background-color: yellow;
+}
+.lastRow{
+  background-color: orange;
+}
+.firstImage{
+  height: 50px;
+  width: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
